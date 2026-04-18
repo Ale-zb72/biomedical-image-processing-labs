@@ -4,7 +4,7 @@ This repository contains a collection of laboratory exercises focused on fundame
 ## 📌 Overview
 - Total labs: 10
 - Field: Biomedical Engineering / Image Processing
-- Tools: (add yours, e.g., Python, MATLAB, OpenCV)
+- Tools: MATLAB
 
 ## 🧪 Labs Included
 
