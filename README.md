@@ -2,7 +2,7 @@
 
 This repository contains a collection of laboratory exercises focused on fundamental biomedical image processing techniques. Each lab explores key methods used in medical imaging analysis, from basic intensity transformations to advanced filtering and geometric corrections.
 ## 📌 Overview
-- Total labs: 11
+- Total labs: 10
 - Field: Biomedical Engineering / Image Processing
 - Tools: (add yours, e.g., Python, MATLAB, OpenCV)
 
