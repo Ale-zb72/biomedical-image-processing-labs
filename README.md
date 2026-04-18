@@ -1,2 +1,59 @@
 # biomedical-image-processing-projects
-Collection of practical exercises focused on biomedical image processing techniques. The projects explore fundamental concepts used in medical imaging analysis.
+
+This repository contains a collection of laboratory exercises focused on fundamental biomedical image processing techniques. Each lab explores key methods used in medical imaging analysis, from basic intensity transformations to advanced filtering and geometric corrections.
+## 📌 Overview
+- Total labs: 11
+- Field: Biomedical Engineering / Image Processing
+- Tools: (add yours, e.g., Python, MATLAB, OpenCV)
+
+## 🧪 Labs Included
+
+- **Lab 1: Histogram Analysis**  
+  Study and visualization of image intensity distributions.
+
+- **Lab 2: Intensity Level Transformations**  
+  Techniques for modifying pixel intensity values.
+
+- **Lab 3: Gamma Correction**  
+  Adjustment of image brightness using gamma transformation.
+
+- **Lab 4: Histogram Equalization**  
+  Contrast enhancement using histogram redistribution.
+
+- **Lab 5: Convolution Masks**  
+  Application of spatial filters using convolution kernels.
+
+- **Lab 6: Advanced Convolution Masks**  
+  Extended filtering techniques for feature enhancement.
+
+- **Lab 7: High-pass and Low-pass Filters**  
+  Frequency-based filtering for sharpening and smoothing.
+
+- **Lab 9: Periodic Noise Removal**  
+  Techniques to eliminate structured noise in images.
+
+- **Lab 10: Image Rotation**  
+  Geometric transformation for rotating images.
+
+- **Lab 11: Perspective Correction**  
+  Transformation techniques to correct image perspective distortion.
+
+## 📂 Repository Structure
+
+Each lab is organized in its own folder:
+lab-01-histogram/
+lab-02-intensity-transformations/
+lab-03-gamma-correction/
+lab-04-histogram-equalization/
+lab-05-convolution-masks/
+lab-06-advanced-convolution/
+lab-07-frequency-filters/
+lab-09-periodic-noise-removal/
+lab-10-image-rotation/
+lab-11-perspective-correction/
+
+Each folder contains:
+- Source code
+- Input images (if applicable)
+- Output results
+- Brief explanation of the implemented method
