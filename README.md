@@ -8,35 +8,35 @@ This repository contains a collection of laboratory exercises focused on fundame
 
 ## 🧪 Labs Included
 
-- **Lab 1: Histogram Analysis**  
-  Study and visualization of image intensity distributions.
+- **Lab 1: Histogram Analysis**
+  Analysis of images with different exposure levels (low, high, and well-exposed) through grayscale conversion and histogram generation to study pixel intensity distribution using both manual and built-in methods in MATLAB.
 
 - **Lab 2: Intensity Level Transformations**  
-  Techniques for modifying pixel intensity values.
-
+  Grayscale image processing using different intensity transformations, including negative inversion, linear contrast stretching, and triangular mapping, with analysis of their effects through histogram comparison before and after transformation.
+  
 - **Lab 3: Gamma Correction**  
-  Adjustment of image brightness using gamma transformation.
+  Gamma correction for intensity level adjustment in both bright and dark grayscale images, with evaluation of different gamma values and their effects on brightness and contrast.
 
 - **Lab 4: Histogram Equalization**  
-  Contrast enhancement using histogram redistribution.
+  Histogram equalization for contrast improvement in a grayscale image, with redistribution of pixel intensities using the cumulative distribution function and comparison of histograms before and after enhancement.
 
 - **Lab 5: Convolution Masks**  
-  Application of spatial filters using convolution kernels.
+  Application of spatial filtering techniques to a grayscale image, including low-pass filtering for noise reduction and high-pass filtering for edge and detail enhancement.
 
 - **Lab 6: Advanced Convolution Masks**  
-  Extended filtering techniques for feature enhancement.
+  Application of convolution masks for edge detection in grayscale medical images, including Prewitt and Sobel operators. Edge enhancement through gradient computation in both horizontal and vertical directions, with visualization and normalization of the resulting images.
 
 - **Lab 7: High-pass and Low-pass Filters**  
-  Frequency-based filtering for sharpening and smoothing.
+  Frequency domain filtering of grayscale images using the Fourier Transform, including the application of low-pass and high-pass filters. Analysis of frequency components through spectrum visualization and reconstruction of filtered images using the inverse transform.
 
 - **Lab 8: Periodic Noise Removal**  
-  Techniques to eliminate structured noise in images.
+  Removal of periodic noise in grayscale images through frequency domain analysis using the Fourier Transform. Detection of noise peaks in the frequency spectrum, construction of a notch filter, and reconstruction of the filtered image using the inverse transform.
 
 - **Lab 9: Image Rotation**  
-  Geometric transformation for rotating images.
+  Rotation of a grayscale image around a defined pivot point using geometric transformation. Coordinate mapping and interpolation for pixel reassignment, with reconstruction of the rotated image.
 
 - **Lab 10: Perspective Correction**  
-  Transformation techniques to correct image perspective distortion.
+  Perspective correction of a grayscale image through geometric transformation based on user-selected reference points. Computation of transformation parameters using a system of equations, pixel remapping to a corrected coordinate space, and reconstruction of missing regions through interpolation.
 
 ## 📂 Repository Structure
 
