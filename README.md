@@ -29,13 +29,13 @@ This repository contains a collection of laboratory exercises focused on fundame
 - **Lab 7: High-pass and Low-pass Filters**  
   Frequency-based filtering for sharpening and smoothing.
 
-- **Lab 9: Periodic Noise Removal**  
+- **Lab 8: Periodic Noise Removal**  
   Techniques to eliminate structured noise in images.
 
-- **Lab 10: Image Rotation**  
+- **Lab 9: Image Rotation**  
   Geometric transformation for rotating images.
 
-- **Lab 11: Perspective Correction**  
+- **Lab 10: Perspective Correction**  
   Transformation techniques to correct image perspective distortion.
 
 ## 📂 Repository Structure
@@ -48,9 +48,9 @@ lab-04-histogram-equalization/
 lab-05-convolution-masks/
 lab-06-advanced-convolution/
 lab-07-frequency-filters/
-lab-09-periodic-noise-removal/
-lab-10-image-rotation/
-lab-11-perspective-correction/
+lab-08-periodic-noise-removal/
+lab-9-image-rotation/
+lab-10-perspective-correction/
 
 Each folder contains:
 - Source code
