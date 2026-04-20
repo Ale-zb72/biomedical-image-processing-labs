@@ -1,12 +1,12 @@
-# biomedical-image-processing-projects
+# Biomedical Image Processing Projects (MATLAB-Based)
 
 This repository contains a collection of laboratory exercises focused on fundamental biomedical image processing techniques. Each lab explores key methods used in medical imaging analysis, from basic intensity transformations to advanced filtering and geometric corrections.
-## 📌 Overview
+## Overview
 - Total labs: 10
 - Field: Biomedical Engineering / Image Processing
 - Tools: MATLAB
 
-## 🧪 Labs Included
+## Labs Included
 
 - **Lab 1: Histogram Analysis**
   Analysis of images with different exposure levels (low, high, and well-exposed) through grayscale conversion and histogram generation to study pixel intensity distribution using both manual and built-in methods in MATLAB.
@@ -38,7 +38,7 @@ This repository contains a collection of laboratory exercises focused on fundame
 - **Lab 10: Perspective Correction**  
   Perspective correction of a grayscale image through geometric transformation based on user-selected reference points. Computation of transformation parameters using a system of equations, pixel remapping to a corrected coordinate space, and reconstruction of missing regions through interpolation.
 
-## 📂 Repository Structure
+## Repository Structure
 
 Each lab is organized in its own folder:
 lab-01-histogram/
